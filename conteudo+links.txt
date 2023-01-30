@@ -14,7 +14,7 @@ font-family: 'Libre Baskerville', serif;
 FAVICON
 
 A ORIGEM
-IMAGEM(Entrada do site)-https://i.pinimg.com/564x/fa/b0/ed/fab0eded9ce489a120d1aa5d661cf3e7.jpg
+IMAGEM(Entrada do site)-https://i.pinimg.com/564x/cb/10/9d/cb109d5d1402ae804422a89aa168da00.jpg
 
 Dark Souls é uma série de RPGs de ação criados por Hidetaka Miyazaki da FromSoftware e publicados pela Bandai Namco Entertainment. A série começou com o lançamento de Dark Souls e teve duas sequências, Dark Souls II e Dark Souls III.seus designers foram: Hidetaka Miyazaki, Naotoshi Zin, Junya Ishizaki, Yuya Kimijima, Shigeto Hirai, Hiroshi Yoshida e foi Desenvolvido pelas empresas: FromSoftware, Bandai Namco Entertainment, Bluepoint Games, Virtuos, Japan Studio, QLOC,
 
