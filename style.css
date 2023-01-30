@@ -1,2 +1,59 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+
+
+*{
+padding: 0;
+margin: 0;
+}
+
+:root{
+--fonte01:'Libre Baskerville', serif;
+--fonte02: sans-serif;
+
+--cor1:#04151F;
+--cor2:#183A37;
+--cor3:#FAF0CA;
+--cor4:#F4D35E;
+--cor5:#EE964B;
+}
+
+.normal{
+    color: var(--cor1);
+    background-color: var(--cor3);
+}
+.img{
+    background-color: var(--cor1);
+    color: var(--cor3);
+    height: 80vh;
+}
+
+.img1{
+    background-image: url(https://i.pinimg.com/564x/cb/10/9d/cb109d5d1402ae804422a89aa168da00.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header{
+    padding-top: 40vh;
+    font-size: 2em;
+    text-align: center;
+    font-family: var(--fonte01);
+    font-weight: bold;
+
+}
+
+section{
+    font-family: var(--fonte02);
+    
+    padding: 20px;
+
+}
+
+section p{
+    text-align: justify;
+    line-height: 1.5em;
+}

@@ -13,8 +13,8 @@ font-family: 'Libre Baskerville', serif;
 
 FAVICON
 
-A ORIGEM
 IMAGEM(Entrada do site)-https://i.pinimg.com/564x/cb/10/9d/cb109d5d1402ae804422a89aa168da00.jpg
+A ORIGEM
 
 Dark Souls é uma série de RPGs de ação criados por Hidetaka Miyazaki da FromSoftware e publicados pela Bandai Namco Entertainment. A série começou com o lançamento de Dark Souls e teve duas sequências, Dark Souls II e Dark Souls III.seus designers foram: Hidetaka Miyazaki, Naotoshi Zin, Junya Ishizaki, Yuya Kimijima, Shigeto Hirai, Hiroshi Yoshida e foi Desenvolvido pelas empresas: FromSoftware, Bandai Namco Entertainment, Bluepoint Games, Virtuos, Japan Studio, QLOC,
 
@@ -45,7 +45,7 @@ Posteriormente, uma nova versão do jogo com conteúdo DLC, Dark Souls II: Schol
 DARK SOULS 3
 IMAGEM(Ds3)-https://wallpapercave.com/wp/wp1867050.jpg
 
-Dark Souls III é um jogo do género RPG de ação, o quarto da série Souls, desenvolvido pela FromSoftware e co-realizado por Hidetaka Miyazaki, o criador da série. Dark Souls III foi lançado para Microsoft Windows, PlayStation 4 e Xbox One no dia 24 de março de 2016 no Japão, e a 12 de abril de 2016 no resto do mundo.
+Dark Souls III, o quarto da série Souls, desenvolvido pela FromSoftware e co-realizado por Hidetaka Miyazaki, o criador da série. Dark Souls III foi lançado para Microsoft Windows, PlayStation 4 e Xbox One no dia 24 de março de 2016 no Japão, e a 12 de abril de 2016 no resto do mundo.
 Dark Souls III recebeu aclamação por parte da critica especializada. Os elogios focarem-se sobretudo nos visuais e nas mecânicas de combate, fazendo lembrar o ritmo rápido de Bloodborne, o jogo anterior da FromSoftware. No site de análises agregadas Metacritic a versão Microsoft Windows conseguiu a pontuação de 90/100, o que indica “aclamação universal”.
 
 Dark Souls III é um jogo do gênero RPG de ação numa perspectiva de terceira pessoa, similar aos jogos anteriores da série. De acordo com o director Hidetaka Miyazaki, o desenho do jogo “é muito parecido com Dark Souls II”. Os jogadores tem uma grande variedade de armas como arcos, explosivos como bombas de fogo, espadas grandes e duplas, e escudos que repelem os ataques inimigos, protegendo o jogador. Em adição, os ataques podem ser evitados com o dodge-rolling. As fogueiras, que servem como ponto de controle intermediário, regressam para este jogo. As cinzas, de acordo com Miyazaki, têm um papel importante no jogo.
