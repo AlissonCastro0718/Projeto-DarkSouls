@@ -26,17 +26,31 @@ margin: 0;
 .img{
     background-color: var(--cor1);
     color: var(--cor3);
-    height: 80vh;
-}
-
-.img1{
-    background-image: url(https://i.pinimg.com/564x/cb/10/9d/cb109d5d1402ae804422a89aa168da00.jpg);
-    background-position: center center;
+    height: 100vh; 
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
+.img1{
+    background-image: url(https://i.pinimg.com/564x/cb/10/9d/cb109d5d1402ae804422a89aa168da00.jpg);
+    background-position: center center;
+}
+.img2{
+    background-image: url(https://wallpapercave.com/wp/wp3756449.jpg
+    );
+    background-position: center center;
+}
+.img3{
+    background-image: url(https://wallpapercave.com/wp/wp1980920.jpg
+    );
+    background-position: top left;
+}
+.img4{
+    background-image: url(https://wallpapercave.com/wp/wp1867050.jpg
+    );
+    background-position:left center;
+}
 header{
     padding-top: 40vh;
     font-size: 2em;
@@ -46,9 +60,21 @@ header{
 
 }
 
+.h1{
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.685);
+    padding-top: 40vh;
+    font-size: 4em;
+    text-align: center;
+    font-family: var(--fonte01);
+    font-weight: bold;
+}
+
+h2{
+text-align: center;
+}
+
 section{
     font-family: var(--fonte02);
-    
     padding: 20px;
 
 }
@@ -56,4 +82,70 @@ section{
 section p{
     text-align: justify;
     line-height: 1.5em;
+    font-size: 1.5em;
+}
+
+
+aside{
+background-color: var(--cor4);
+font-family: var(--fonte02);
+min-height: 20px;
+}
+
+
+aside h2{
+padding: 5px;
+color: var(--cor5);
+background-color: var(--cor2);
+}
+
+ul{
+    padding-top: 5px;
+    list-style: none;
+    columns: 2; 
+    padding-bottom: 5px;
+}
+ul a{
+    text-decoration: none;
+    color: var(--cor2);
+}
+ul a:hover{
+color: var(--cor1);
+text-decoration: underline;
+}
+
+li{
+padding-left: 10vw;
+}
+
+.miniatura{
+    border-radius: 50%;
+    width: 15vw;
+    height: 25vh;
+    
+}
+svg{
+    display: inline-block;
+    font-size: inherit;
+    height:1em;
+    overflow: visible;
+    vertical-align: -.125em;}
+
+footer{
+    text-align: center;
+    font-family: var(--fonte02);
+    background-color: var(--cor2);
+    color: var(--cor5);
+    padding: 5px;
+}
+
+footer a {
+    text-decoration: none;
+    color: var(--cor5);
+    font-weight: bold;
+}
+
+footer a:hover{
+    text-decoration: underline;
+    
 }
