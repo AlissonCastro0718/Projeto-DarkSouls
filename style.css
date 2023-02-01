@@ -33,7 +33,7 @@ margin: 0;
 }
 
 .img1{
-    background-image: url(https://i.pinimg.com/564x/cb/10/9d/cb109d5d1402ae804422a89aa168da00.jpg);
+    background-image: url(https://wallpapercave.com/wp/wp6594984.jpg);
     background-position: center center;
 }
 .img2{
@@ -120,16 +120,22 @@ padding-left: 10vw;
 
 .miniatura{
     border-radius: 50%;
-    width: 15vw;
-    height: 25vh;
+    width: 100px;
+    height: 100px;
     
 }
+
+.texto_aside{
+transform: translate(50%,-100%);
+}
+
 svg{
     display: inline-block;
     font-size: inherit;
     height:1em;
     overflow: visible;
-    vertical-align: -.125em;}
+    vertical-align: -.125em;
+}
 
 footer{
     text-align: center;
